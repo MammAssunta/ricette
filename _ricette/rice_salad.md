@@ -1,8 +1,9 @@
-# Rice salad 
+---
+name: Rice salad
+---
+# Ingredients (serves 2-3)
 
-## Ingredients (serves 2-3)
-
-### (these ingredients are basic, they can be removed if not of taste and others can be added if preferred, such as diced fresh peppers, celery, diced carrots)
+## (these ingredients are basic, they can be removed if not of taste and others can be added if preferred, such as diced fresh peppers, celery, diced carrots)
 
 200g rice
 
@@ -28,7 +29,7 @@ Salt to taste
 
 
 
-## Method
+# Method
 
 Cook rice according to instructions on the packet. 
 
@@ -47,8 +48,3 @@ Open the tuna and discard a little oil (do not drain it all because it is your s
 Add salt to taste.
 
 If using boiled eggs, slice them and add them to the salad, once you serve it.
-
-
-
-
-
