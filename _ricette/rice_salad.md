@@ -1,4 +1,5 @@
 ---
+name: Rice salad
 ---
 # Rice salad 
 
