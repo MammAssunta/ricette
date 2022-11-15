@@ -1,4 +1,4 @@
 collections:
-  ricette
+  ricette:
     output: true
     permalink: /:name
