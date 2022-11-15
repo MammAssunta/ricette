@@ -1,0 +1,7 @@
+<h2> Ricette </h2>
+
+<ul>
+{% for ricetta in site.ricette %}
+  <li><a href="{{ ricetta.url }}">{{ ricetta.name }}</a></li>
+  {% endfor %}
+</ul>
