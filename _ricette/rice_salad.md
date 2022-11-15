@@ -1,8 +1,6 @@
 ---
 name: Rice salad
 ---
-# Rice salad 
-
 ## Ingredients (serves 2-3)
 
 ### (these ingredients are basic, they can be removed if not of taste and others can be added if preferred, such as diced fresh peppers, celery, diced carrots)
