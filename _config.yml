@@ -1,3 +1,5 @@
+baseurl: /ricette
+
 collections:
   ricette:
     output: true
